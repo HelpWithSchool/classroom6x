@@ -1,0 +1,176 @@
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: C:\Downloaded Web Sites\sites.google.com\js\client.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:i%2Cbi%2C700%2C400%2C500|Nunito:i%2Cbi%2C700%2C400%2C600&display=swap
+File Name: C:\Downloaded Web Sites\sites.google.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: C:\Downloaded Web Sites\sites.google.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v45/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\comfortaa\v45\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v45/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\comfortaa\v45\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v45/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\comfortaa\v45\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/close/default/24px.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\s\i\short-term\release\googlesymbols\close\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://lh6.googleusercontent.com/y5QBpdY7m685nZjAzMcZ_KHG9UFqvUHhjGNs5-Nif7hCr7BuPC3I37-1G4e2tWZrAVQDFx8lh-yxNggzHkK5pUUwhWHmw8_2B2m8I_yCPOtdBQ
+File Name: C:\Downloaded Web Sites\sites.google.com\y5QBpdY7m685nZjAzMcZ_KHG9UFqvUHhjGNs5-Nif7hCr7BuPC3I37-1G4e2tWZrAVQDFx8lh-yxNggzHkK5pUUwhWHmw8_2B2m8I_yCPOtdBQ
+Content Type: image/png
+
+Uri: https://sites.google.com/site/classroom6x/unblockedgames
+File Name: C:\Downloaded Web Sites\sites.google.com\site\classroom6x\unblockedgames.html
+Content Type: text/html
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+File Name: C:\Downloaded Web Sites\sites.google.com\atari\images\cloudsearch\icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+File Name: C:\Downloaded Web Sites\sites.google.com\atari\images\cloudsearch\internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite614.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite614.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite614_blue.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite614_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite614_gm3_grey_medium.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite614_gm3_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite614_grey_dark.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite614_grey_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite614_grey_medium.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite614_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/shortcut_sprite1.png
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\shortcut_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-icons4.png
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-icons4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_dark.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-spinner_dark.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_gray.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-spinner_gray.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v-sprite19.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\viewer\v-sprite19.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite54.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\viewer\v3\v-sprite54.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/s2/tt/images/play-overlay.png
+File Name: C:\Downloaded Web Sites\sites.google.com\s2\tt\images\play-overlay.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/loading_bg_f5.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\activityindicator\loading_bg_f5.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-137373682-11
+File Name: C:\Downloaded Web Sites\sites.google.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.aJSDYCYfGzw.O/am=AAY/d=1/rs=AGEqA5k6UWrEiwUlxs2iVtmV1GFQ358rnw/m=view
+File Name: C:\Downloaded Web Sites\sites.google.com\_\atari\_\js\k=atari.vw.en_US.aJSDYCYfGzw.O\am=AAY\d=1\rs=AGEqA5k6UWrEiwUlxs2iVtmV1GFQ358rnw\m=view
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.x1-G7UwBOPo.L.X.O/am=AAY/d=1/rs=AGEqA5nvhB-Rf1PXAJFSuSOEEmXOncVoFQ
+File Name: C:\Downloaded Web Sites\sites.google.com\_\atari\_\ss\k=atari.vw.x1-G7UwBOPo.L.X.O\am=AAY\d=1\rs=AGEqA5nvhB-Rf1PXAJFSuSOEEmXOncVoFQ
+Content Type: text/css
+
